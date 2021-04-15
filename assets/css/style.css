@@ -93,8 +93,8 @@ blockquote{
     text-align: left;
 }
 
-.reversefootnote, .reversefootnote a, .reversefootnote a:hover, .reversefootnote a:visited{
-    color: #E51E7B;
+.reversefootnote{
+    color: beige;
 }
 
 
@@ -179,12 +179,12 @@ thead th{
 }
 
 .footnotes a, .footnotes a:visited{
-    color:rgb(216, 215, 167);
+    color: #E51E7B;
 
 }
 
 .footnotes a:hover{
-    color:rgb(167, 206, 216);
+    color: #d61e74;
 }
 
 /*
