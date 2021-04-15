@@ -81,7 +81,7 @@ blockquote{
 
 .footnotes{
     border-radius: 3px 3px;
-    background-color: #303030;
+    background-color: #F1E3AA;
     font-family: 'Open Sans', sans-serif; 
     font-size: 10pt;
     padding-top: .5%;
@@ -89,12 +89,12 @@ blockquote{
     padding-left: 1%;
     padding-right: 2%;
     margin-top: 10px;
-    color: #bfad6f;
+    color: #3E829E;
     text-align: left;
 }
 
 .reversefootnote{
-    color: beige;
+    color: #E51E7B;
 }
 
 
